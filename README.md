@@ -14,6 +14,23 @@ npm create svelte@latest
 npm create svelte@latest my-app
 ```
 
+## Configuration
+
+```
+Welcome to SvelteKit!
+│
+◇  Which Svelte app template?
+│  Skeleton project
+│
+◇  Add type checking with TypeScript?
+│  Yes, using JavaScript with JSDoc comments
+│
+◇  Select additional options (use arrow keys/space bar)
+│  none
+│
+└  Your project is ready!
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
