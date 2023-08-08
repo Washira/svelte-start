@@ -6,4 +6,5 @@
 
 <h1>Page About</h1>
 <div>Slug : {data.slug}</div>
-<div>pathName : {data.pathName}</div>
+<div>Path Name : {data.pathName}</div>
+<div>Route Id : {data.routeId}</div>
